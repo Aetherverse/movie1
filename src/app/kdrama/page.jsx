@@ -2,8 +2,8 @@ import { Card, CardHeader, CardBody, Link } from "@nextui-org/react";
 import Image from "next/image";
 
 export const metadata = {
-	title: "Dramalama K-Drama",
-	description: "k-drama page for Dramalama",
+	title: "Aetherverse K-Drama",
+	description: "k-drama page for Aetherverse",
 };
 
 import { DramaDataFetcher } from "./components/requests";
