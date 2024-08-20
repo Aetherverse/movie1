@@ -15,9 +15,9 @@ export default async function Home() {
 			<div className="text-center my-2">
 				<p className="text-md text-gray-500">Welcome to</p>
 				<br />
-				<p className="mt-[-1.8rem] text-4xl">Dramalama</p>
+				<p className="mt-[-1.8rem] text-4xl">Aetherverse</p>
 				<p className="mt-1 text-sm text-neutral-500">
-					Dramalama is a platform which lets you stream your favourite
+					Aetherverse is a platform which lets you stream your favourite
 					content for free.
 				</p>
 			</div>
