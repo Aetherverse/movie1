@@ -1,8 +1,8 @@
 import MangaSearchBox from "./components/inputContainer";
 
 export const metadata = {
-	title: "Dramalama Manga",
-	description: "Manga/Manhwa page for Dramalama",
+	title: "Aetherverse Manga",
+	description: "Manga/Manhwa page for Aetherverse",
 };
 
 const MangaHomePage = async () => {
@@ -12,7 +12,7 @@ const MangaHomePage = async () => {
 				<p className="text-center text-xl">
 					Welcome to <br />
 					<span className="text-3xl text-sky-400">
-						Dramalama-Manga
+						Aetherverse-Manga
 					</span>
 				</p>
 			</div>
